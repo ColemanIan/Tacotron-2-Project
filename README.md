@@ -4,7 +4,7 @@ Implementation of Tacotron 2 for EC523
 All of the code has been developed in ian.ipynb and should run relatively on its own. If ran, it will  load tacotron2, waveglow, and the LJSpeech-1.1 dataset and try to train tacotron2. Included is our "best performing" state_dict.
 
 ******NOTE****
-
+Github told me the state_dict file was too large to upload (100 MB)
 This was ran in google colab, not the SCC. It was just easier for development because of NVIDIA's implementation being confusing.Changes would have to be made before running this on the SCC, but it seems a moot point.
 
 
